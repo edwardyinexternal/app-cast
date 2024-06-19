@@ -10,7 +10,6 @@
             <enclosure 
                 url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" 
                 sparkle:version="1.0.1" 
-                sparkle:os="android" 
             />
             
             <sparkle:version>1.0.1</sparkle:version>
