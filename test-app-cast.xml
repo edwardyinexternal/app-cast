@@ -12,8 +12,8 @@
                 sparkle:version="1.0.1" 
                 sparkle:os="android" 
             />
-
-            <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
+            
+            <sparkle:version>1.0.1</sparkle:version>
 
             <sparkle:tags> 
                 <sparkle:criticalUpdate /> 
