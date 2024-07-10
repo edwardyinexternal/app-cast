@@ -13,7 +13,7 @@
                 sparkle:os="android"
             />
             
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
 
             <sparkle:tags> 
                 <sparkle:criticalUpdate /> 
@@ -27,7 +27,7 @@
             
             <enclosure 
                 url="https://apps.apple.com/app/id/com.moonwink.treasury" 
-                sparkle:version="1.0.0" 
+                sparkle:version="1.0.1" 
                 sparkle:os="iOS"
             />
             
