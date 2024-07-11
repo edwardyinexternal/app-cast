@@ -13,7 +13,7 @@
                 sparkle:os="android"
             />
             
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
 
             <sparkle:tags> 
                 <sparkle:criticalUpdate /> 
@@ -31,7 +31,7 @@
                 sparkle:os="iOS"
             />
             
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
 
             <sparkle:tags> 
                 <sparkle:criticalUpdate /> 
